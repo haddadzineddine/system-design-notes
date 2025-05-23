@@ -2,6 +2,26 @@
 
 We’ll discuss the following building blocks in detail, topologically ordered so that dependencies appear in sequence.
 
+
+## 📘 Plan
+
+1. [Domain Name System (DNS)](#1-domain-name-system-dns)
+2. [Load Balancers](#2-load-balancers)
+3. [Databases](#3-databases)
+4. [Key-Value Store](#4-key-value-store)
+5. [Content Delivery Network (CDN)](#5-content-delivery-network-cdn)
+6. [Sequencer](#6-sequencer)
+7. [Service Monitoring](#7-service-monitoring)
+8. [Distributed Caching](#8-distributed-caching)
+9. [Distributed Messaging Queue](#9-distributed-messaging-queue)
+10. [Publish-Subscribe System](#10-publish-subscribe-system)
+11. [Rate Limiter](#11-rate-limiter)
+12. [Blob Store](#12-blob-store)
+13. [Distributed Search](#13-distributed-search)
+14. [Distributed Logging](#14-distributed-logging)
+15. [Distributed Task Scheduling](#15-distributed-task-scheduling)
+16. [Sharded Counters](#16-sharded-counters)
+
 ---
 
 ## 1. Domain Name System (DNS)
