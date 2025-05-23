@@ -1,7 +1,4 @@
-# Distributed Systems: Building Blocks
-
-We’ll discuss the following building blocks in detail, topologically ordered so that dependencies appear in sequence.
-
+# Distributed Systems
 
 ## 📘 Plan
 
