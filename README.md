@@ -1,4 +1,4 @@
-# ⚙️ Distributed Systems
+# ⚙️ Distributed Systems Notes (With the help of AI)
 
 A curated guide to the core components and design principles behind large-scale, reliable, and scalable distributed systems.
 
@@ -254,7 +254,3 @@ Monitoring systems collect metrics and logs to analyze system health and detect 
 - **Server-side Monitoring:** CPU, memory, latency, error rates.
 - **Client-side Monitoring:** User experience and frontend errors.
 - **Alerting Systems:** Notify teams of anomalies.
-
----
-
-Let me know if you'd like me to keep going with the rest, or want a full consolidated file for your README!
